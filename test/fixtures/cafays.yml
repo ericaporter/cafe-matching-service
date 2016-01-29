@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  bitterness: 1
+  plugs_available: 1
+  has_gluten_free_option: 
+  has_wifi: 
+
+two:
+  location: MyString
+  bitterness: 1
+  plugs_available: 1
+  has_gluten_free_option: 
+  has_wifi: 
